@@ -1,0 +1,11 @@
+D:\Usuario\Desktop\fibo\bin\Debug\netcoreapp3.1\fibo.exe
+D:\Usuario\Desktop\fibo\bin\Debug\netcoreapp3.1\fibo.deps.json
+D:\Usuario\Desktop\fibo\bin\Debug\netcoreapp3.1\fibo.runtimeconfig.json
+D:\Usuario\Desktop\fibo\bin\Debug\netcoreapp3.1\fibo.runtimeconfig.dev.json
+D:\Usuario\Desktop\fibo\bin\Debug\netcoreapp3.1\fibo.dll
+D:\Usuario\Desktop\fibo\bin\Debug\netcoreapp3.1\fibo.pdb
+D:\Usuario\Desktop\fibo\obj\Debug\netcoreapp3.1\fibo.csprojAssemblyReference.cache
+D:\Usuario\Desktop\fibo\obj\Debug\netcoreapp3.1\fibo.AssemblyInfoInputs.cache
+D:\Usuario\Desktop\fibo\obj\Debug\netcoreapp3.1\fibo.AssemblyInfo.cs
+D:\Usuario\Desktop\fibo\obj\Debug\netcoreapp3.1\fibo.dll
+D:\Usuario\Desktop\fibo\obj\Debug\netcoreapp3.1\fibo.pdb
